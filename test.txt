@@ -1,2 +1,9 @@
 I knew your face
 I like git
+
+1，配置yum源
+2，安装git yum install -y git
+3，启动git 和httpd
+4，git init 初始化
+5，x远程关联，不一定需要 git remote add origin 地址
+6，git clone 地址是 https://github.com/afeitang/learngit.git
